@@ -17,5 +17,3 @@ mongoose
 app.listen(3000, () => {
   console.log("Server is ready..");
 });
-
-//MONGO_URI = mongodb+srv://gayaruangkita:zQKiQOEzmG7NvMf3@cluster0.luabs.mongodb.net/Kanayama?retryWrites=true&w=majority&appName=Cluster0
