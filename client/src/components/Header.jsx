@@ -17,7 +17,7 @@ export default function Header() {
         <Button className="w-12 h-9" color="gray" pill>
           <FaMoon />
         </Button>
-        <Button gradientDuoTone="purpleToBlue" className="text-sm">
+        <Button outline gradientDuoTone="purpleToBlue" className="text-sm">
           <CgLogIn className="mr-2 size-4 self-center" />
           Login
         </Button>
